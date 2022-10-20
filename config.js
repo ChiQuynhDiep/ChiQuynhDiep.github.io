@@ -32,5 +32,5 @@ const CONFIG = {
     ',
     messTitle: "Gửi Chị Diệp",
     messDesc: 'Chúc chị Diệp 20/10 thật vui vẻ 🥳',
-    btnAccept: 'Ok lun',
+    btnAccept: 'Ok',
 }
